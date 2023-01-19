@@ -1,2 +1,3 @@
 He aprendido a eliminar y recuperar archivos en git
  clase 2
+ Otro texto 
